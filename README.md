@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Karthik Jain
+**Software Engineer | Programmer | Tech Enthusiast | Quick Learner**
+
+- 🌱 I’m currently learning Modern C++23, and Data-oriented C++ in Scientific Programming. Aiming towards High Performane Computing in C++.
+- 🔭 I’m currently open to work and actively looking for opportunities.
+- 📫 How to reach me: https://www.linkedin.com/in/karthikjain/
 
 <!--
 **krthkj/krthkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
