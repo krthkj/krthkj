@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Karthik Jain
 **Software Engineer | Programmer | Tech Enthusiast | Quick Learner**
 
-- 🌱 I’m currently learning Modern C++23, and Data-oriented C++ in Scientific Programming. Aiming towards High Performane Computing in C++.
-- 🔭 I’m currently open to work and actively looking for opportunities.
+- 🌱 Currently learning Modern C++23, and Data-oriented C++ in Scientific Programming. Aiming towards High Performane Computing in C++.
+- 🔭 Currently open to work and actively looking for opportunities.
 - 📫 How to reach me: https://www.linkedin.com/in/karthikjain/
 
 <!--
@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skills
+- C
+- C++11 (Updating to C++23)
+- Qt6
+- Python
+- Linux
+- SDLC Understanding
