@@ -2,7 +2,7 @@
 **Software Engineer | Programmer | Tech Enthusiast | Quick Learner**
 
 - 🌱 Currently learning Modern C++23, and Data-oriented C++ in Scientific Programming. Aiming towards High Performane Computing in C++.
-- 🔭 Currently open to work and actively looking for opportunities.
+<!-- - 🔭 Currently open to work and actively looking for opportunities. -->
 - 📫 How to reach me: https://www.linkedin.com/in/karthikjain/
 
 <!--
